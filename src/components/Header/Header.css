@@ -3,7 +3,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+    background: linear-gradient(110deg, #3C486B 60%, #F0F0F0 60%);
     color: white;
     padding: 0 20px;
 }
@@ -34,4 +34,9 @@
   .username{
     color:blue;
     margin-right:10px;
+}
+
+.home-icon {
+    cursor: pointer;
+    font-size: 30px;
 }
